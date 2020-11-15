@@ -1,0 +1,6 @@
+#!/bin/sh
+#run init (some simple)
+#service /etc/whatd/service/$service
+#check
+#exec &
+#
